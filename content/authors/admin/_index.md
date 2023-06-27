@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kameron Shahabi
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kameron
+last_name: Shahabi
 
 # Status emoji
 status:
@@ -14,34 +14,29 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  - name: University of Southern California
+    url: https://www.cs.usc.edu/
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theory of Machine Learning
+  - Out-of-distribution generalization
+  - Fairness
+  - Privacy
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BS in Computer Science
+      institution: University of Southern California
+      year: 2023
+    - course: MS in Computer Science
+      institution: University of Southern California
+      year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +75,9 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Kameron, a master's student studying computer science at the University of Southern California. I am part of the <a href="https://viterbi-web.usc.edu/~cstheory/">USC Theory Group</a>, advised by Prof. <a href="https://vatsalsharan.github.io/">Vatsal Sharan</a>. I'm interested in responsible machine learning from the lens of fairness, robustness, and privacy. I am also fond of cryptography, which I studied throughout my research internship at <a href="https://privacyresearch.io/">Privacy Research LLC</a>.
+
+While completing my bachelor's, I worked as an autopilot sensor intern at <a href="https://www.tesla.com/">Tesla, Inc.</a>, applied machine learning to healthcare at <a href="hhttps://kuhn.usc.edu//">CSI-Cancer</a>, and conducted location research at the <a href="https://infolab.usc.edu/">USC Information Laboratory</a>. 
+
+I am applying to PhD programs in computer science during Fall 2023. Please reach out if there's anything you'd like to discuss!
 {style="text-align: justify;"}
